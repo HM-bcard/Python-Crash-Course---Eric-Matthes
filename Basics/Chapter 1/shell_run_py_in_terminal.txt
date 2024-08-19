@@ -1,0 +1,4 @@
+#shell
+
+Desktop\python_work>py hello_world.py
+
