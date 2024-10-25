@@ -1,10 +1,11 @@
 import user_class
+import class_privileges
 
 class Admin(user_class.User):
     def __init__(self,first_name,last_name,role,created_date,active):
         """ assigning attributes to the parent class"""
         super().__init__(first_name,last_name,role,created_date,active)
-        self.privileges = ('Can delete posts','Can ban users','Can add posts')
+        self.privileges = class_privileges.Privileges
 
     def show_privileges_1(self):
         """Listing the admin privileges implicitly"""
