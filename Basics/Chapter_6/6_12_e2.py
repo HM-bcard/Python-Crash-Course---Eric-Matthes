@@ -10,3 +10,4 @@ for letter in list_new:
     favorite_places[letter] = 'null'
 
 print(favorite_places)
+
