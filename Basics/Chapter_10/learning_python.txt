@@ -1,0 +1,9 @@
+In Python you can do arithmetic operations
+In Python you can create and output words and sentences
+In Python you can do logical operations
+In Python you can perform loops and conditionals
+In Pythn you can create variables, constants and variable aggregates(data structures)
+In Python you can create functions
+In Python you can create modules
+In Python you can create classes
+ 
