@@ -19,9 +19,12 @@ print(len(pi_string))
 pi_float = float(pi_string)
 
 for i in pi_string:
-    if int i == 1:
+    if i == 1:
         print(int(i))
     else:
         continue
 
+
+path = Path('programming.txt')
+path.write_text("I love programming")
 
