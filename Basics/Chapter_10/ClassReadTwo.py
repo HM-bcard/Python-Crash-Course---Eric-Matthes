@@ -7,3 +7,5 @@ class Read:
         pass
     def read_text(text_file):
         print(Path.read_text(text_file))
+
+        
