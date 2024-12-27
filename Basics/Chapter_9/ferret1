@@ -1,0 +1,5 @@
+from FerretClass import *
+
+my_ferret = Ferret('Charmer',3,'regular')
+
+my_ferret.describe()
