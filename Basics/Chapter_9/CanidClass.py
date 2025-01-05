@@ -4,4 +4,5 @@ class Canid:
         self.paws = paws
         self.tail = tail
         self.fur = fur
-        
+    def describe(self):
+        to main
