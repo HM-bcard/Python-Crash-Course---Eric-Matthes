@@ -5,7 +5,6 @@ class Canid:
         self.tail = tail
         self.fur = fur
     def describe(self):
-        print(f"This canid is {self.size} big has {self.paws} a {self.tail} tail"
-              f"and a {self.fur} coat.")
-        
+        print(f"This canid is {self.size} has {self.paws} paws a {self.tail} tail"
+              f" and a {self.fur} coat.")
         
