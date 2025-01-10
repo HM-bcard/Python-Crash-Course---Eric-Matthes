@@ -5,3 +5,5 @@ class Feline:
         self.fur = fur
     def describe(self):
         print(f"It's a {self.species}")
+    def __call__(self, *args, **kwds):
+        pass
