@@ -6,4 +6,4 @@ class Feline:
     def describe(self):
         print(f"It's a {self.species}")
     def __call__(self, *args, **kwds):
-        pass
+        print(f"Calling the function?")
